@@ -9,7 +9,7 @@
   - Set up Express middleware (Helmet, CORS).
   - Create Mongoose schemas (User, Template, Poster).
 
-- [ ] **Part 3: Authentication System**
+- [x] **Part 3: Authentication System**
   - Implement backend JWT auth endpoints (`/register`, `/login`, `/me`).
   - Create minimal frontend login/register pages.
   - Implement auth state management (Zustand/Context).
