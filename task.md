@@ -4,7 +4,7 @@
   - Initialize Turborepo with Next.js (web) and Express (api).
   - Set up shared packages (ESLint, shared-types).
 
-- [ ] **Part 2: Database & Backend Foundation**
+- [x] **Part 2: Database & Backend Foundation**
   - Provision MongoDB Atlas cluster.
   - Set up Express middleware (Helmet, CORS).
   - Create Mongoose schemas (User, Template, Poster).
