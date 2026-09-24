@@ -19,7 +19,7 @@
   - Build global layout (Navbar, Footer).
   - Create reusable UI components (Buttons, Inputs, Spinners).
 
-- [ ] **Part 5: Media Storage & File Uploads**
+- [x] **Part 5: Media Storage & File Uploads**
   - Set up Cloudinary/S3.
   - Create backend `/upload` endpoint (multer).
   - Build frontend image upload component with preview.
