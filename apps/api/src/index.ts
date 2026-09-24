@@ -6,6 +6,7 @@ import helmet from 'helmet';
 import { connectDB } from './config/db';
 import authRoutes from './routes/authRoutes';
 import uploadRoutes from './routes/uploadRoutes';
+import templateRoutes from './routes/templateRoutes';
 
 connectDB();
 
@@ -18,6 +19,7 @@ app.use(express.json());
 
 app.use('/api/auth', authRoutes);
 app.use('/api/upload', uploadRoutes);
+app.use('/api/templates', templateRoutes);
 
 app.get('/', (req, res) => {
   res.json({ message: 'API is running' });

@@ -24,16 +24,16 @@
   - Create backend `/upload` endpoint (multer).
   - Build frontend image upload component with preview.
 
-- [ ] **Part 6: Template System & Seed Data**
+- [x] **Part 6: Template System & Seed Data**
   - Design 2–3 base templates (HTML/CSS for Puppeteer).
   - Write backend seed script for templates collection.
   - Build frontend Template Gallery page.
 
-- [ ] **Part 7: Core User Flow - Poster Creation Form**
+- [x] **Part 7: Core User Flow - Poster Creation Form**
   - Build multi-step form (Template -> Text -> Photos).
   - Implement client-side validation.
 
-- [ ] **Part 8: AI Integration (Gemini)**
+- [x] **Part 8: AI Integration (Gemini)**
   - Integrate `@google/generative-ai` in backend.
   - Design prompts for color/layout suggestions.
 

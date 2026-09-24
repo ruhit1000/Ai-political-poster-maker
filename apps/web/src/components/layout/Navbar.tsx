@@ -33,6 +33,9 @@ export default function Navbar() {
               <div className="h-8 w-32 bg-gray-100 animate-pulse rounded"></div>
             ) : user ? (
               <>
+                <Link href="/templates" className="text-gray-600 hover:text-gray-900 font-medium">
+                  Templates
+                </Link>
                 <Link href="/dashboard" className="text-gray-600 hover:text-gray-900 font-medium">
                   Dashboard
                 </Link>
