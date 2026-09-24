@@ -14,7 +14,7 @@
   - Create minimal frontend login/register pages.
   - Implement auth state management (Zustand/Context).
 
-- [ ] **Part 4: UI/UX Foundation & Design System**
+- [x] **Part 4: UI/UX Foundation & Design System**
   - Configure Tailwind CSS.
   - Build global layout (Navbar, Footer).
   - Create reusable UI components (Buttons, Inputs, Spinners).
